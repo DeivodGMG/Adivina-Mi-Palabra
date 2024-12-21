@@ -1,0 +1,6 @@
+1. Escriba en la terminal lo siguiente: cd Archivos (Esto para acceder a la carpeta)
+2. Ahora escriba: lua menu.lua (Dandole a enter, ya estarias ejecutando el programa)
+3. Si desea retroceder de ruta, escriba cd .. y yap
+- Borrar un archivo equivale a corromper el codigo entero
+-------------------------------------------
+Programa realizado por DeivodGMG (David Ibarra) :D

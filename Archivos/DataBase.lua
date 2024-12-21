@@ -1,0 +1,1 @@
+palabras = {"elote", "programador", "universidad", "tamaulipas", "mexico", "calle", "barril", "artista", "pay", "bombero"}
